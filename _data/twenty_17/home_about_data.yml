@@ -1,0 +1,17 @@
+- inverted: 
+  img: icon-about.jpeg
+  name: Vision Mission
+  info: Read more about our Vision and Mission
+  link: /about
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Check out the agenda
+  link: /agenda
+
+- inverted:
+  img: icon-venue.jpeg
+  name: Venue
+  info: Learn more about our location
+  link: /venue
